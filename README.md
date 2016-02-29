@@ -1,6 +1,6 @@
-# KeyboardInterceptor
+# C# KeyboardInterceptor
 
-Windows low-level keyboard hook. This library was NOT created for malicious purposes.
+Windows low-level keyboard hook written in C#. This library was NOT created for malicious purposes.
 
 ##Installation
 ```
