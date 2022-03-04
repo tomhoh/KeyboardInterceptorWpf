@@ -72,7 +72,7 @@
     <PropertyGroup>
       <TargetFramework>net46</TargetFramework>
       <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-      <PackageId>$(AssemblyName)_Tom_Hohensee</PackageId>
+      <PackageId>$(AssemblyName)</PackageId>
       <Authors>Tom Hohensee</Authors>
       <Description>Wpf Garbage Collection compatible version of KeyboardInterceptor</Description>
       <PackageReadmeFile>README.md</PackageReadmeFile>
