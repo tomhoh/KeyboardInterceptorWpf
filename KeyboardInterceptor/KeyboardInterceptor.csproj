@@ -71,7 +71,7 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>$(AssemblyName)_Tom Hohensee</PackageId>
     <Authors>Tom Hohensee</Authors>
-    <Description>Wpf Garbage Collection compatable version of KeyboardInterceptor</Description>
+    <Description>Wpf Garbage Collection compatible version of KeyboardInterceptor</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 </Project>

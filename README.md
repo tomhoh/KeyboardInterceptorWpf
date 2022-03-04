@@ -1,4 +1,4 @@
-# C# KeyboardInterceptor
+# C# KeyboardInterceptorWpf
 
 KeyboardInterceptorWpf is a Garbage collection compatible version of KeyboardInterceptor
 
