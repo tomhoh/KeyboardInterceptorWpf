@@ -1,5 +1,7 @@
 # C# KeyboardInterceptor
 
+KeyboardInterceptorWpf is a Garbage collection compatible version of KeyboardInterceptor
+
 Windows low-level keyboard hook written in C#. This library was NOT created for malicious purposes.
 
 ##Installation
