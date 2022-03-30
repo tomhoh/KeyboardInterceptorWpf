@@ -6,7 +6,7 @@ Windows low-level keyboard hook written in C#. This library was NOT created for 
 
 ##Installation
 ```
-Install-Package KeyboardInterceptor
+Install-Package KeyboardInterceptorWpf
 ```
 
 ##Usage
